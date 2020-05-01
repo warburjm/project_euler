@@ -1,5 +1,5 @@
 # project_euler
 
-All code written by: James Warburton
+Written By: James M. Warburton
 
-Any overview and 'book-keeping' will be handled in this README.md
+All code begins with the problem statement from projecteuler.net. Code is self-documenting.
